@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 680407d113f17405a92306ec0cf6daee
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spawnProjectile: {instanceID: 0}
+  - projectilePrefab: {fileID: 5400000, guid: 2cced990ad8a44004841a6e5563ea9c1, type: 2}
+  - shootSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
